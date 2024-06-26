@@ -1,0 +1,72 @@
+{
+    "example":[
+        {
+            "question": "Which battle in World War 2 marked the Allied liberation of Paris from German occupation?",
+            "answer": "Battle of Normandy"
+        },
+        {
+            "question": "Who was the leader of Norway during its occupation by Germany in World War 2?",
+            "answer": "Vidkun Quisling"
+        },
+        {
+            "question": "What was the name of the Allied campaign to recapture the Philippines from Japanese forces in World War 2?",
+            "answer": "Battle of Leyte Gulf"
+        },
+        {
+            "question": "Which battle in World War 2 marked the Soviet defeat of German forces in the Battle of Berlin?",
+            "answer": "Battle of Berlin"
+        },
+        {
+            "question": "Who was the leader of Belgium during its occupation by Germany in World War 2?",
+            "answer": "Hubert Pierlot"
+        },
+        {
+            "question": "What was the name of the German defensive line in Italy during World War 2?",
+            "answer": "Gustav Line"
+        },
+        {
+            "question": "Which battle in World War 2 marked the Allied victory in North Africa?",
+            "answer": "Battle of El Alamein"
+        },
+        {
+            "question": "Who was the leader of the Netherlands during its occupation by Germany in World War 2?",
+            "answer": "Queen Wilhelmina"
+        },
+        {
+            "question": "What was the name of the German offensive in the Ardennes Forest in World War 2?",
+            "answer": "Battle of the Bulge"
+        },
+        {
+            "question": "Which battle in World War 2 marked the Japanese defeat at the hands of the United States Navy?",
+            "answer": "Battle of Midway"
+        },
+        {
+            "question": "Who was the leader of Denmark during its occupation by Germany in World War 2?",
+            "answer": "Christian X of Denmark"
+        },
+        {
+            "question": "What was the name of the Soviet counter-offensive against German forces at Kursk in World War 2?",
+            "answer": "Operation Citadel"
+        },
+        {
+            "question": "Which battle in World War 2 marked the Japanese defeat on the island of Iwo Jima?",
+            "answer": "Battle of Iwo Jima"
+        },
+        {
+            "question": "Who was the leader of France during its occupation by Germany in World War 2?",
+            "answer": "Philippe Pétain"
+        },
+        {
+            "question": "What was the name of the Japanese suicide pilots in World War 2?",
+            "answer": "Kamikaze"
+        },
+        {
+            "question": "Which battle in World War 2 marked the Soviet victory over German forces at Stalingrad?",
+            "answer": "Battle of Stalingrad"
+        },
+        {
+            "question": "Who was the leader of Greece during its occupation by Germany in World War 2?",
+            "answer": "King George II"
+        }
+    ]
+}

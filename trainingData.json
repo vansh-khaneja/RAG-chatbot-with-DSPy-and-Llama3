@@ -1,0 +1,129 @@
+{
+    "examples": [
+        {
+            "question": "What was the name of the German battleship sunk at the Battle of Jutland?",
+            "answer": "SMS Derfflinger"
+        },
+        {
+            "question": "Which battle in World War 1 marked the first use of submarines to sink merchant ships?",
+            "answer": "Battle of the Atlantic"
+        },
+        {
+            "question": "Who was the leader of Austria-Hungary during World War 1?",
+            "answer": "Emperor Franz Joseph I"
+        },
+        {
+            "question": "What was the name of the British general who commanded the British Expeditionary Force in World War 1?",
+            "answer": "Sir John French"
+        },
+        {
+            "question": "Which battle in World War 1 saw the first use of aerial bombing by German Zeppelins?",
+            "answer": "Battle of Liege"
+        },
+        {
+            "question": "Who was the leader of Serbia during World War 1?",
+            "answer": "King Peter I"
+        },
+        {
+            "question": "What was the name of the British admiral who commanded the British Grand Fleet at the Battle of Jutland?",
+            "answer": "John Jellicoe"
+        },
+        {
+            "question": "Which battle in World War 1 saw the first use of tanks by the British Army?",
+            "answer": "Battle of Flers-Courcelette"
+        },
+        {
+            "question": "Who was the leader of the United States during World War 2?",
+            "answer": "Franklin D. Roosevelt"
+        },
+        {
+            "question": "What was the name of the British cruiser sunk by the German battleship Bismarck in 1941?",
+            "answer": "HMS Hood"
+        },
+        {
+            "question": "Which battle in World War 2 saw the surrender of German forces in North Africa?",
+            "answer": "Battle of El Alamein"
+        },
+        {
+            "question": "Who was the leader of the Free French Forces during World War 2?",
+            "answer": "Charles de Gaulle"
+        },
+        {
+            "question": "What was the name of the German air force during World War 1?",
+            "answer": "Luftstreitkräfte"
+        },
+        {
+            "question": "Which battle in World War 2 marked the largest amphibious invasion in history?",
+            "answer": "D-Day (Normandy Invasion)"
+        },
+        {
+            "question": "Who was the leader of Hungary during World War 2?",
+            "answer": "Miklós Horthy"
+        },
+        {
+            "question": "What was the name of the British Prime Minister during World War 2?",
+            "answer": "Winston Churchill"
+        },
+        {
+            "question": "Which battle in World War 2 marked the turning point in the Pacific Theater?",
+            "answer": "Battle of Midway"
+        },
+        {
+            "question": "Who was the leader of Finland during World War 2?",
+            "answer": "Carl Gustaf Emil Mannerheim"
+        },
+        {
+            "question": "What was the name of the German general known as the \"Desert Fox\" during World War 2?",
+            "answer": "Erwin Rommel"
+        },
+        {
+            "question": "Which battle in World War 2 saw the Soviet defense of Stalingrad against German forces?",
+            "answer": "Battle of Stalingrad"
+        },
+        {
+            "question": "Who was the leader of Poland during the invasion by Germany in World War 2?",
+            "answer": "Władysław Sikorski"
+        },
+        {
+            "question": "What was the name of the Japanese attack on the United States naval base at Pearl Harbor?",
+            "answer": "Pearl Harbor Attack"
+        },
+        {
+            "question": "Which battle in World War 2 saw the Allied capture of Rome from German forces?",
+            "answer": "Battle of Monte Cassino"
+        },
+        {
+            "question": "Who was the leader of Yugoslavia during World War 2?",
+            "answer": "Josip Broz Tito"
+        },
+        {
+            "question": "What was the name of the German U-boat campaign against Allied shipping in World War 2?",
+            "answer": "Battle of the Atlantic"
+        },
+        {
+            "question": "Which battle in World War 2 marked the Soviet counter-offensive against German forces near Moscow?",
+            "answer": "Battle of Moscow"
+        },
+        {
+            "question": "Who was the leader of Romania during World War 2?",
+            "answer": "Ion Antonescu"
+        },
+        {
+            "question": "What was the name of the German operation to invade the Soviet Union in World War 2?",
+            "answer": "Operation Barbarossa"
+        },
+        {
+            "question": "Which battle in World War 2 saw the largest tank battle in history?",
+            "answer": "Battle of Kursk"
+        },
+        {
+            "question": "Who was the leader of Czechoslovakia during its occupation by Germany in World War 2?",
+            "answer": "Emil Hácha"
+        },
+        {
+            "question": "What was the name of the British general who commanded the Eighth Army in North Africa during World War 2?",
+            "answer": "Bernard Montgomery"
+        }
+        
+    ]
+}
